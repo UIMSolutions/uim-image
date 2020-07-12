@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-image
+uim-image.so
+uim-image.dylib
+uim-image.dll
+uim-image.a
+uim-image.lib
+uim-image-test-*
+*.exe
+*.o
+*.obj
+*.lst
