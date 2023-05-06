@@ -1,1 +1,1 @@
-
+module ui.image.tests;
