@@ -1,1 +1,1 @@
-
+module uim.image.classes;
