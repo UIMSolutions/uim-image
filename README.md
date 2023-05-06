@@ -1,2 +1,2 @@
-# uim-image
+# Library 📚 uim-image
 Image processing with D
