@@ -1,3 +1,3 @@
-module uim.image;
+module uim.images;
 
 mixin(ImportPhobos!());

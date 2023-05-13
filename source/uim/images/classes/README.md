@@ -1,1 +1,1 @@
-# Package 📦 uim.image.classes
+# Package 📦 uim.images.classes

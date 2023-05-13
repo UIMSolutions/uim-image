@@ -1,1 +1,1 @@
-module uim.image.interfaces;
+module uim.images.interfaces;

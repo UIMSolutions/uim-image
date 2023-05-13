@@ -1,1 +1,1 @@
-# Package 📦 uim.image.mixins;
+# Package 📦 uim.images.mixins;

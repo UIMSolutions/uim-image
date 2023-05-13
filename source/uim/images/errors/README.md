@@ -1,1 +1,1 @@
-# Package 📦 uim.image.errors
+# Package 📦 uim.images.errors

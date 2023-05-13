@@ -1,1 +1,1 @@
-module uim.image.mixins;
+module uim.images.mixins;

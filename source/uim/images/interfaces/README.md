@@ -1,1 +1,1 @@
-# Package 📦 uim.image.interfaces
+# Package 📦 uim.images.interfaces

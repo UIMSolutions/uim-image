@@ -1,1 +1,1 @@
-module uim.image.helpers;
+module uim.images.helpers;

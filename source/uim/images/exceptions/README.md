@@ -1,1 +1,1 @@
-# Package 📦 uim.image.exceptions
+# Package 📦 uim.images.exceptions

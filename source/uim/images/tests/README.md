@@ -1,1 +1,1 @@
-# Package 📦 uim.image.tests
+# Package 📦 uim.images.tests

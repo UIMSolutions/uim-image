@@ -1,1 +1,1 @@
-# Package 📦 uim.image.helpers
+# Package 📦 uim.images.helpers

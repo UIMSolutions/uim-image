@@ -1,1 +1,1 @@
-# Package 📦 uim.image
+# Package 📦 uim.images
