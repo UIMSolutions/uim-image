@@ -1,1 +1,0 @@
-module uim.image.interfaces;
